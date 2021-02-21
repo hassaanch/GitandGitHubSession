@@ -1,0 +1,3 @@
+void public add(init a,init b){
+return a+b;
+}
